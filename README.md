@@ -1,3 +1,3 @@
-# Experiment-15-git-branch-merge-exp
+# Experiment-26
 
-This is change from main branch Successfully pulled the latest changes from GitHub and updated the local repository.
+This is sample project This is a sample project (updated) Repository modified for Experiment 26
